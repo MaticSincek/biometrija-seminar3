@@ -1,0 +1,4 @@
+!curl -O http://awe.fri.uni-lj.si/downloads/AWEDataset.zip
+!unzip -q AWEDataset.zip
+!ls
+!ls awe
